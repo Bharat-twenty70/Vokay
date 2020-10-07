@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         print("project created")
+        self.view.backgroundColor = UIColor.blue
         
     }
     
